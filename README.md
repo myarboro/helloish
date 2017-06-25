@@ -1,2 +1,2 @@
 # helloish
-Trying again
+openshift rocks!
